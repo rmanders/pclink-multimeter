@@ -1,5 +1,5 @@
 
-ink-multimeter
+# pclink-multimeter
 Linux tool for acquiring data from PCLINK multimeters
 
 This tool is an extension of the one created by Martin Schewe at http://multimeter.schewe.com/
